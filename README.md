@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansi13" alt="karansi13" /></a> </p>
 
-- 🔭 I’m currently working on [Shopee (Ecommerce MERN)](https://github.com/Karansi13/MERN-ECOM-FRONTEND)
+- 🔭 Currently working on [R.S.D.C]
 
 - 👨‍💻 All of my projects are available at [https://karan-singh-portfolio.vercel.app/](https://karan-singh-portfolio.vercel.app/)
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ks888570@gmail.com**
 
