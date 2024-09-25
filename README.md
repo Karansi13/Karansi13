@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansi13" alt="karansi13" /></a> </p>
 
-- 🔭 Currently working on [R.S.D.C]
+- 🔭 Currently working in Nexuscare.
 
 - 👨‍💻 All of my projects are available at [https://karan-singh-portfolio.vercel.app/](https://karan-singh-portfolio.vercel.app/)
 
