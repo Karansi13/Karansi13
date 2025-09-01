@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Karan Singh Kalsi, a passionate developer who loves building cool things with code. 
+Driven by endless curiosity, I’m a lifelong learner on a mission to understand and build in this ever-evolving tech world. 
 
 
 ## 🌐 Socials:
