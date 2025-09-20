@@ -1,6 +1,7 @@
 # 💫 About Me:
 I design and build end-to-end applications that are scalable, efficient, and user-centric. From architecting robust databases to integrating AI and optimizing performance. I create systems that deliver lasting value through clean design and seamless experiences.
 
+![](https://komarev.com/ghpvc/?username=Karansi13)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-kalsi-589006255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks888570@gmail.com) 
